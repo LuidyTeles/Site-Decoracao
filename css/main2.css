@@ -8,3 +8,54 @@
 #nav-menu-container {
     margin-top: -80px;
 }
+
+.social-icons {
+    position: absolute;
+    bottom: 20px; /* Ajuste conforme necessário */
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.social-icons ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.social-icons ul li {
+    display: inline-block;
+}
+
+.social-icons ul li a {
+    color: white; /* Ajuste a cor conforme o design */
+    text-decoration: none;
+    transition: transform 0.3s;
+}
+
+.social-icons ul li a:hover {
+    transform: scale(1.2);
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center; /* Centraliza no meio */
+    align-items: center;
+    gap: 20px; /* Define um bom espaçamento entre os itens */
+    padding: 10px 0; /* Adiciona um espaço superior e inferior */
+}
+
+.contact-link {
+    text-decoration: none;
+    color: white; /* Ajuste conforme o design */
+    font-weight: bold;
+}
+
+.separator {
+    color: white;
+    font-weight: bold;
+}
