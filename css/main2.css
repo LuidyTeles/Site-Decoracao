@@ -1,0 +1,10 @@
+/* link de contato */
+.contact-link { 
+    font-size: 1.5em;
+    text-decoration: none; 
+}
+
+/* container do menu */
+#nav-menu-container {
+    margin-top: -80px;
+}
