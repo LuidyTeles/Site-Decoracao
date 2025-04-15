@@ -41,7 +41,6 @@
     transform: scale(1.2);
 }
 
-/* Alterar a cor do ícone do WhatsApp */
 .fa-whatsapp {
     color: #25D366 !important;
 }
@@ -50,7 +49,6 @@
     color: #128C7E !important;
 }
 
-/* Alterar a cor do ícone do Instagram */
 .fa-instagram {
     color: #E4405F !important;
 }
@@ -59,7 +57,6 @@
     color: #C13584 !important;
 }
 
-/* Alterar a cor do ícone do Facebook */
 .fa-facebook {
     color: #1877F2 !important;
 }
@@ -68,7 +65,6 @@
     color: #155D8E !important;
 }
 
-/* Alterar a cor do ícone de E-mail */
 .fa-envelope {
     color: #D44638 !important;
 }
@@ -77,7 +73,6 @@
     color: #C1351D !important;
 }
 
-/* Alterar a cor do ícone do LinkedIn */
 .fa-linkedin {
     color: #0077B5 !important;
 }
